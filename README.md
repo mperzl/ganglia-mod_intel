@@ -21,7 +21,7 @@ The following additional metrics are provided for Linux on Intel:
 
 ## Obtaining binary versions
 
-Downloads of binary versions for AIX and Linux on Power are available at:
+Downloads of binary versions for Linux on Intel are available at:
 
     http://www.perzl.org/aix/index.php?n=Main.Ganglia
 
