@@ -19,7 +19,13 @@ The following additional metrics are provided for Linux on Intel:
 * `oslevel`
 * `serial_num`
 
-----
+## Obtaining binary versions
+
+Downloads of binary versions for AIX and Linux on Power are available at:
+
+    http://www.perzl.org/aix/index.php?n=Main.Ganglia
+
+## Description of individual metrics
 
 Metric:	**`cpu_entitlement`**
 
