@@ -1,7 +1,6 @@
 # ganglia-mod_intel: Ganglia Monitor daemon module intel
 
-This gmond module provides additional useful Intel metrics.
-
+This gmond module provides additional useful Intel metrics which should make it easier to integrate Linux Intel systems with IBM Power systems (where the metrics originated from). 
 **License:** BSD 3-Clause "New" or "Revised" License
 
 The following additional metrics are provided for Linux on Intel:
